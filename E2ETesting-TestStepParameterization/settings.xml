@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="2449cd11-6d69-46e0-a594-a4ae159906a5" name="E2ETesting-TestStepParameterization" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="2449cd11-6d69-46e0-a594-a4ae159906a5fileName">E2ETesting-TestStepParameterization</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
